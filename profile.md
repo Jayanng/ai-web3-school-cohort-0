@@ -1,0 +1,1 @@
+# Learner Profile\n- AI Background: Basic\n- Web3 Background: Basic\n- Coding Ability: Basic scripting\n- Target Direction: Development\n- Daily Available Time: 4 hours\n- Preferred Output Language: English\n
