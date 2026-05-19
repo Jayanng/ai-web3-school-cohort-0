@@ -1,0 +1,18 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.tmp
+
+# Ignore specific directories
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
